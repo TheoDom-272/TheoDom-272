@@ -1,6 +1,6 @@
 # Hi, I'm Théo
 
-**Quantitative Risk Analyst | Financial Engineer**
+**Quantitative Analyst | Financial Engineer**
 
 ---
 
