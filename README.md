@@ -1,4 +1,4 @@
-# Hi, I'm Théo 👋
+# Hi, I'm Théo
 
 **Quantitative Risk Analyst | Financial Engineer**
 
@@ -24,7 +24,7 @@ index replication via ex-ante tracking error minimization.
 
 ---
 
-## 🎓 School Projects
+## School Projects
 
 All school projects are available at **[TheoDom-SchoolProject](https://github.com/TheoDom-SchoolProject)**
 
