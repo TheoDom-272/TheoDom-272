@@ -12,7 +12,7 @@
 A Python framework for evaluating covariance matrix estimators applied to 
 index replication via ex-ante tracking error minimization.
 
-**Estimators compared :** Rolling Sample · EWMA · Ledoit-Wolf (LW) · ANLS · QIS
+**Estimators compared :** Sample Covariance Matrix  · EWMA · Ledoit-Wolf (LW) · ANLS · QIS
 
 **Key findings :**
 - QIS and LW consistently dominate Rolling and EWMA across all configurations
